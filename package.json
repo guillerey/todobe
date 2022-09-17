@@ -1,6 +1,6 @@
 {
-  "name": "backend_project",
-  "version": "1.0.0",
+  "name": "project-backend",
+  "version": "0.0.1",
   "description": "ToDos app backend",
   "license": "MIT",
   "scripts": {
