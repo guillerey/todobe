@@ -34,7 +34,7 @@ RequestHandler.post("/to-dos", async (request, response) => {
         VALUES (
             '${title}',
             '${description}',
-            ${is_done}
+             ${is_done}
         )
     `);
 
