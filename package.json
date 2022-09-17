@@ -4,7 +4,7 @@
   "description": "ToDos app backend",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon ./src"
+    "start": "node src/index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
